@@ -1,2 +1,1 @@
-# asynchronousBallMovement
-Boiler plate for ball moving aysnchronously
+# Project Kabbadi Game
